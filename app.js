@@ -22,6 +22,7 @@ app.use(express.static(__dirname + "/public"));
 spotifyApi.setAccessToken("<your_access_token>");
 
 // Our routes go here:
+//lalala
 
 app.listen(3000, () =>
   console.log("My Spotify project running on port 3000 🎧 🥁 🎸 🔊")
